@@ -2,3 +2,4 @@
 2nd commit in repo: 1st commit in development branch.
 3rd commit in repo: 1st commit in development-issue branch.
 4th commit in repo: 2nd commit in development-issue branch.
+5th commit in repo: 1st commit in hotfix branch.
